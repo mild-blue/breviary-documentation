@@ -3,7 +3,7 @@
    - je nutné být přidán jako beta-tester v App Store Connect, v případě, že aplikaci nevidíš kontaktuj Nasťu nebo Ľuboše
 
 ### Android instalace beta-verze
-1. Na [Google Play](https://play.google.com/store/games?hl=en&gl=US) vyhledej aplikaci `Virtual Breviary`
+1. Na [Google Play](https://play.google.com/) vyhledej aplikaci `Virtual Breviary`
 2. Na stránce aplikace zoskroluj dole a zaklikni tlačítko `Join` v sekci `Join the beta`
 3. Nainstaluj si poslední verzi aplikace
 
