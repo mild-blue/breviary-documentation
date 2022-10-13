@@ -20,7 +20,7 @@
 ### Testování notifikací
 Notifikace je potřeba testovat v 3 režimech
 - v otevřené aplikaci
-- v minimalizované aplikaci (jenom klasiky zavřít)
+- v minimalizované aplikaci (jenom klasicky zavřít)
 - po force quit 
 
 1. Otevři si `https://breviary.stg.mild.blue/` na počítači
