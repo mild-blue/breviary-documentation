@@ -5,7 +5,9 @@
 ### Android instalace beta-verze
 1. Na [Google Play](https://play.google.com/) vyhledej aplikaci `Virtual Breviary`
 2. Na stránce aplikace zoskroluj dole a zaklikni tlačítko `Join` v sekci `Join the beta`
-3. Nainstaluj si poslední verzi aplikace
+   - občas se stane, že trvá pár (desítek) minut než se objaví tlačítko update, v tom připade je možné zajít do `manage apps & devices` skryté pod profilovou ikonkou kde by se po kliknutí na `Virtual Breviary` mnělo ukázat tlačítko update
+3. Odinstaluj si produkční verzi aplikace
+4. Nainstaluj si poslední beta verzi aplikace
 
 ### Login do aplikace
 1. Po otevření tě aplikace vyzve k vybrání organizace. Klikni na tlačítko `Přidat vlastní`.
@@ -32,3 +34,7 @@ Notifikace je potřeba testovat v 3 režimech
 6. Zadej jakoukoliv hodnotu v zadaném rozmezí do pole `Výsledek aPTT testu`
 7. Klikni na `Přidat`
 8. Notifikace by se mněla zobrazit na telefonu (nebo tabletu)
+
+#### Notifikace mi nechodí
+- ujisti se, že máš povolené notifikace pro breviary v nastaveních telefonu
+- na některých LG mobiloch byl potřebný restart telefonu (spíš vypadá na problém os)
