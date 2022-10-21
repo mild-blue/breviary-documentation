@@ -32,3 +32,4 @@
 2. [Testovani pridani noveho vysledku testu.](test_result.md)
 3. [Testovani hlasky "Riziko hypoglykemie".](risk_of_hypoglycemia.md)
 4. [Edge case.](edgecase.md)
+5. [Real life case.](real_life_case.md)
