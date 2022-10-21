@@ -17,7 +17,7 @@
 5. Po úspěšném připojení klikni na `Přihlásit se`. Pokud nedošlo k úspěšnému připojení byla buď chybně zadaná adresa nebo stg neběží. Vyzkoušej zadáním adresy do tvého oblíbeného prohlížeče.
 6. Zadej uživatelské jméno a heslo pro `stg`. (najdeš v bitwardenu)
 7. Vyber hospitalizační jednotku default
-8. Vyber typ léku `Heparin`
+8. Vyber typ léku `Heparin` nebo `Inzulin` v zavislosti na testovacim scenari.
 
 ### Testovaci scenare
 #### Heparin:
