@@ -21,13 +21,14 @@
 
 ### Testovaci scenare
 #### Heparin:
-1. [Testovani vypisu pacientu.](vypispacientu.md)
-2. [Testovani notifikací.](notifikace.md)
+1. [Testovani vypisu pacientu.](patient_list.md)
+2. [Testovani notifikací.](notification.md)
 3. [Testovani hlasek "Není možné doporučit dávku, protože pacientovo cílové aPTT ratio je mimo rozsah nomogramu" a "Není možné doporučit dávku, protože pacientova hmotnost je mimo rozsah nomogramu".](weight_aptt.md)
-4. [Testovani nouzoveho zastaveni.](emergencystop.md)
+4. [Testovani nouzoveho zastaveni.](emergency_stop.md)
 5. [Testovani nizkeho aptt ratio.](low_aptt.md)
-6. [Testovani pri rychlosti pumpy 0.](pumpspeed0.md)
+6. [Testovani pri rychlosti pumpy 0.](pump_speed0.md)
 #### Inzulin:
-1. [Testovani hlasky "Včera nebyla aplikována žádná dávka inzulínu".](bylavceradavka.md)
-2. [Testovani pridani noveho vysledku testu.](vysledkytestu.md)
-3. [Testovani hlasky "Riziko hypoglykemie".](rizikohypoglykemie.md)
+1. [Testovani hlasky "Včera nebyla aplikována žádná dávka inzulínu".](no_insulin_yesterday.md)
+2. [Testovani pridani noveho vysledku testu.](test_result.md)
+3. [Testovani hlasky "Riziko hypoglykemie".](risk_of_hypoglycemia.md)
+4. [Edge case.](edgecase.md)

@@ -13,3 +13,4 @@
    Včera nebyla aplikována žádná dávka inzulínu."
 <br/>
 Doporucena davka inzulinu: 0,5 jedn.
+
