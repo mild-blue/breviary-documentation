@@ -21,8 +21,10 @@
 
 ### Testovaci scenare
 #### Heparin:
-1. Odkaz na [testování notifikací](notifikace.md)
+1. Odkaz na [testovani vypisu pacientu.](vypispacientu.md)
+2. Odkaz na [testování notifikací.](notifikace.md)
+3. Odkazna na [testovani hlasek "" a "".](weight_aptt.md)
 #### Inzulin:
-1. Odkaz na [testovani hlasky "There was no insulin dosage applied yesterday".](bylavceradavka.md)
+1. Odkaz na [testovani hlasky "Včera nebyla aplikována žádná dávka inzulínu".](bylavceradavka.md)
 2. Odkaz na [testování pridani noveho vysledku testu.](vysledkytestu.md)
-3. Odkaz na [testovani hlasky "Riziko hypoglykémie"](rizikohypoglykemie.md)
+3. Odkaz na [testovani hlasky "Riziko hypoglykemie".](rizikohypoglykemie.md)

@@ -1,4 +1,4 @@
-### Pacient inzulin
+### Testovani hlasky "Riziko hypoglykemie"
 1. Otevrte pacienta, ktereho jste vytvorili pri [testování pridani noveho vysledku testu.](vysledkytestu.md)
 2. Otevrte historii pacientu, zkontrolujte, ze on nedostal zadnou davku (ve sloupci Davka musime videt "-" naproti kazdemu testu).
 3. Kliknete "Pridat novy vysledek testu".

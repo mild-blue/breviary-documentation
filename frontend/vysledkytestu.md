@@ -1,4 +1,4 @@
-### Pacient inzulin
+### Testování pridani noveho vysledku testu.
 1. Vytvorte noveho inzulinoveho pacienta s libovolnym jmenem a hodnotami:
 - Cilova glykemie = 7 mmol/l
 - Celkova denni davka inzulinu (TDDI) = 20 jedn 

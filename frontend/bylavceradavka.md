@@ -1,4 +1,4 @@
-### Pacient inzulin
+### Testovani hlasky "Včera nebyla aplikována žádná dávka inzulínu"
 1. Vyberte si pacienta, ktery byl hospitalizovan a u ktereho byla zahajena lecba vcera nebo drive.
 
 2. Presvedcte se, ze vcera pacient nemel zadnou davku inzulinu:
