@@ -6,6 +6,8 @@
 - Typ inzulinu = Apidra
 2. Zahajit inzulinovou lecbu.
 3. Pridat novy vysledek tesu:
+<br/>
+Poznamka: testy provadejte hned za sebou. Po pridani vysledku testu neakceptujte doporuceni ani nenastavujte vlastni hodnotu. Klikejte "Pridat novy vysledek testu".
 
 | Typ testu             | Vstup                                    | Vystup                                                                                                                                                                                         |
 |-----------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

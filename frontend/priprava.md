@@ -23,4 +23,6 @@
 #### Heparin:
 1. Odkaz na [testování notifikací](notifikace.md)
 #### Inzulin:
-1. Odkaz na [testování pridani noveho vysledku testu](vysledkytestu.md)
+1. Odkaz na [testovani hlasky "There was no insulin dosage applied yesterday".](bylavceradavka.md)
+2. Odkaz na [testování pridani noveho vysledku testu.](vysledkytestu.md)
+3. Odkaz na [testovani hlasky "Riziko hypoglykémie"](rizikohypoglykemie.md)
