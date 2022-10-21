@@ -1,4 +1,4 @@
-### Testovani hlasek " " a " ".
+### Testovani hlasek "Není možné doporučit dávku, protože pacientovo cílové aPTT ratio je mimo rozsah nomogramu" a "Není možné doporučit dávku, protože pacientova hmotnost je mimo rozsah nomogramu".
 1. Vytvorte noveho heparinoveho pacienta s libovolnym jmenem a hodnotami:
 - Vaha = 78 kg
 - Redeni heparinu = 25000/500

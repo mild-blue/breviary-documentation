@@ -23,7 +23,7 @@
 #### Heparin:
 1. Odkaz na [testovani vypisu pacientu.](vypispacientu.md)
 2. Odkaz na [testování notifikací.](notifikace.md)
-3. Odkazna na [testovani hlasek "" a "".](weight_aptt.md)
+3. Odkazna na [testovani hlasek "Není možné doporučit dávku, protože pacientovo cílové aPTT ratio je mimo rozsah nomogramu" a "Není možné doporučit dávku, protože pacientova hmotnost je mimo rozsah nomogramu".](weight_aptt.md)
 #### Inzulin:
 1. Odkaz na [testovani hlasky "Včera nebyla aplikována žádná dávka inzulínu".](bylavceradavka.md)
 2. Odkaz na [testování pridani noveho vysledku testu.](vysledkytestu.md)
