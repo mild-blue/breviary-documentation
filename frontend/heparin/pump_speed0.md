@@ -23,4 +23,4 @@
 1. Zopakujte kroky 1-4 scenare [Testovani nouzoveho zastaveni,](emergency_stop.md) akceptujte doporuceni.
 2. Kliknete "Zapnout pumpu predcasne" -> zapnout vlastni rychlosti.
 - Nová rychlost pumpy: 24
-### chyba: Něco se pokazilo. Zkuste to prosím později.
+3. Mela by se zobrazit zelena hlaska "Zaznam byl uspesne pridan"
