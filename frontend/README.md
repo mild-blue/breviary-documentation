@@ -21,15 +21,15 @@
 
 ### Testovaci scenare
 #### Heparin:
-1. [Testovani vypisu pacientu.](patient_list.md)
-2. [Testovani notifikací.](notification.md)
-3. [Testovani hlasek "Není možné doporučit dávku, protože pacientovo cílové aPTT ratio je mimo rozsah nomogramu" a "Není možné doporučit dávku, protože pacientova hmotnost je mimo rozsah nomogramu".](weight_aptt.md)
-4. [Testovani nouzoveho zastaveni.](emergency_stop.md)
-5. [Testovani nizkeho aptt ratio.](low_aptt.md)
-6. [Testovani pri rychlosti pumpy 0.](pump_speed0.md)
+1. [Testovani vypisu pacientu.](heparin/patient_list.md)
+2. [Testovani notifikací.](heparin/notification.md)
+3. [Testovani hlasek "Není možné doporučit dávku, protože pacientovo cílové aPTT ratio je mimo rozsah nomogramu" a "Není možné doporučit dávku, protože pacientova hmotnost je mimo rozsah nomogramu".](heparin/weight_aptt.md)
+4. [Testovani nouzoveho zastaveni.](heparin/emergency_stop.md)
+5. [Testovani nizkeho aptt ratio.](heparin/weight_aptt.md)
+6. [Testovani pri rychlosti pumpy 0.](heparin/pump_speed0.md)
 #### Inzulin:
-1. [Testovani hlasky "Včera nebyla aplikována žádná dávka inzulínu".](no_insulin_yesterday.md)
-2. [Testovani pridani noveho vysledku testu.](test_result.md)
-3. [Testovani hlasky "Riziko hypoglykemie".](risk_of_hypoglycemia.md)
-4. [Edge case.](edgecase.md)
-5. [Real life case.](real_life_case.md)
+1. [Testovani hlasky "Včera nebyla aplikována žádná dávka inzulínu".](insulin/no_insulin_yesterday.md)
+2. [Testovani pridani noveho vysledku testu.](insulin/test_result.md)
+3. [Testovani hlasky "Riziko hypoglykemie".](insulin/test_result.md)
+4. [Edge case.](insulin/cases.md)
+5. [Real life case.](insulin/cases.md)
