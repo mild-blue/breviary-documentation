@@ -1,3 +1,14 @@
+### Testovani Breviary
+Toto jsou podklady pro testovani aplikace Breviary.
+Nize je popis pro pripravu prostredi a pak rozcestnik na jednotlive testovaci scenare.
+
+Pokud chcete pridat novy scenar:
+1. Vytvorte file ve slozce "frontend/heparin" nebo "frontend/insulin" (v zavislosti na tom pro jaky lek testujete).
+2. Pojmenujte ho "name.md" (namisto "name" napiste nazev testu, ktery vymyslite).
+3. Ve filu popiste postup provedeni testu, inspirujte se [grafem pro inzulin](https://app.diagrams.net/#Hmild-blue%2Fbreviary-backend%2F802_tests_summarization%2Fdocumentation%2Fdiagrams_en%2Finsulin-flow-chart.drawio.xml) nebo [grafem pro heparin](https://app.diagrams.net/#Hmild-blue%2Fbreviary-backend%2F802_tests_summarization%2Fdocumentation%2Fdiagrams_en%2Fheparin-flow-chart.drawio.xml).
+4. Pridejte odkaz na file do rozcestniku. Navod jak pridat odkaz na file [zde](https://www.jetbrains.com/help/webstorm/markdown.html).
+
+
 ### iOS instalace beta-verze
 1. Nainstaluj si poslední verzi aplikace z [TestFlight](https://developer.apple.com/testflight/)
     - je nutné být přidán jako beta-tester v App Store Connect, v případě, že aplikaci nevidíš kontaktuj Nasťu nebo Ľuboše
